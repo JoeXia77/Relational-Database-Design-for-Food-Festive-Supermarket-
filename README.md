@@ -12,5 +12,5 @@ Phase2 -- EER to Relation Mapping
 
 Phase3 -- Implementation using MySQL, built 30+ 3NF-tables.
 
-Phase4 -- testing with 15 tasks using SQL queries like "Find the average number of purchases made by the top five Gold Customers."
+Phase4 -- testing with 20 tasks using SQL queries like "Find the average number of purchases made by the top five Gold Customers."
 
