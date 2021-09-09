@@ -6,7 +6,7 @@ keywords: EER designing, 3NF Normalization, SQL, MySQL
 
 Designed and achieved a relational database for Food Festive Supermarket grocery store.
 
-Phase1 -- EER design: Built 30+ 3NF-tables based on EER schema.
+Phase1 -- EER design
 
 Phase2 -- EER to Relation Mapping
 
